@@ -10,7 +10,7 @@
                 "s3:GetObject",
                 "s3:PutObject"
             ],
-            "Resource": "arn:aws:s3:::awspro.online/*"
+            "Resource": "arn:aws:s3:::cloudwell.online/*"
         }
     ]
 }
